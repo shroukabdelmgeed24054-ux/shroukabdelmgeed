@@ -29,7 +29,7 @@ ul {
 }
 /*header start*/
 header {
-    background: url("images/home_bg.jpg") center center/cover no-repeat;
+    background: url("home_bg.jpg") center center/cover no-repeat;
     height: 100vh;
     position: relative;
 }
@@ -130,7 +130,7 @@ header * {
 /*offer start*/
 #offers {
     height: 95vh;
-    background: url("images/offer-background.jpg") center center/cover fixed;
+    background: url("offer-background.jpg") center center/cover fixed;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -228,7 +228,7 @@ header * {
 }
 /*daytime start*/
 #daytime {
-    background: url("images/daytime_bg.jpeg") center center/cover 
+    background: url("daytime_bg.jpeg") center center/cover 
     fixed no-repeat;
     color: #fff;
     text-align: center;
@@ -248,7 +248,7 @@ header * {
 }
 /*gallery start*/
 #gallery {
-    background: url("images/offer-background.jpg") center center/cover;
+    background: url("offer-background.jpg") center center/cover;
     padding: 8rem 0 6rem;
 }
 #gallery h2 {
@@ -424,4 +424,5 @@ header .content p {
 }
 #contact .contact-info,form {
     width: 80%;
+
 }}
